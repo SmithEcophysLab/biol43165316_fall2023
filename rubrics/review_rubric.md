@@ -40,7 +40,7 @@ figures may be useful. Note that these can be redrawn from other articles provid
 proper citation is given.
 **Note: Reviews should review a problem or question, not a single paper!**
 An expanded description of a successful literature review can be found in the
-[Literature_Review folder](../Lit_review/literature_review_description.md)
+[Literature_Review folder](../literature_review/literature_review_description.md)
 
 ## Grading Rubric (100 points total)
 Both the review paper and oral presentation will be graded using the rubric below.
@@ -49,15 +49,15 @@ paper, but does not need to cover all the information from the paper.
 As such, the oral presentation will test your ability to summarize the main findings without
 sacrificing the quality of the work.
 
-### Completeness (30 points)
-The review begins with a logical introduction that includes a statement of the
+1. Completeness (30 points)
+- The review begins with a logical introduction that includes a statement of the
 problem or question asked. The main portion of the review address the problem
 or question. The review ends with an answer to the problem or question, or a 
 path to address the problem or question. The audience must be convinced that the
 problem is important and was (or can be) addressed.
 
-### Breadth and Originality (20 points)
-The review is sufficiently broad to address a question in the field
+2. Breadth and Originality (20 points)
+- The review is sufficiently broad to address a question in the field
 of plant physiological ecology. The review should can combine known ideas to form
 a new idea, but must not be a simple reiteration of known facts.
 
@@ -65,8 +65,8 @@ a new idea, but must not be a simple reiteration of known facts.
 not something that has been reviewed in the published literature. The review
 should produce novel findings, questions, and hypotheses.
 
-### Scientific rigor (30 points)
-The review should be grounded in sound science. The product should not contain false
+3. Scientific rigor (30 points)
+- The review should be grounded in sound science. The product should not contain false
 or ambiguous claims. The development of testable predictions and/or hypotheses is
 strongly encouraged. All unoriginal facts and figures should be correctly cited.
 
@@ -74,7 +74,7 @@ strongly encouraged. All unoriginal facts and figures should be correctly cited.
 in the introduction of a manuscript or proposal or be submittable for
 publication on its own.
 
-### Presentation (20 points)
+4. Presentation (20 points)
 The review should be presented in a clear, concise manner appropriate for the
 defined audience. All documents should use proper English grammar and notation. 
 All figures and images should be clearly presented
