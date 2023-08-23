@@ -23,7 +23,7 @@ and discussion
 7. Indicate discussion topic preferences
 	- [list of topic leads and schedule](../topic_leads/topic_leads.md)
 8. Begin discussing the concept of ecosystems
-	- [link to slides](../lecture_slides/ecosystem_concept.pdf)
+	- [link to slides](../lecture_slides/1_ecosystem_concept.pdf)
 
 ## Homework
 - Navigate to course website and familiarize yourself with the structure.
