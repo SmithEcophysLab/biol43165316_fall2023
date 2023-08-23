@@ -8,7 +8,7 @@
 
 ## Agenda
 1. Introductions (in pairs)
-2. [Pre-class questionnaire](../miscellaneous/preclass_questionaire/preclass_questionaire.pdf)
+2. [Pre-class questionnaire](../miscellaneous/preclass_questionaire/preclass_questionnaire.pdf)
 and discussion
 3. Course structure, goals, and syllabus
 	- [syllabus for undergraduate students](../syllabus/BIOL4316_Syllabus_fall2023.pdf)
