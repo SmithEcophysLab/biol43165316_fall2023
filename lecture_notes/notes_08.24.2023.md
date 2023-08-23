@@ -18,7 +18,7 @@ and discussion
 5. [Course website](https://github.com/SmithEcophysLab/biol43165316_fall2023)
 	- [link to user guide](../user_guide.md)
 6. Finding and reading scientific literature
-	- [Google Scholar](https://www.scholar.google.com)
+	- [Google Scholar](https://scholar.google.com/)
 	- [TTU library website](https://www.depts.ttu.edu/library/)
 7. Indicate discussion topic preferences
 	- [list of topic leads and schedule](../topic_leads/topic_leads.md)
