@@ -16,7 +16,7 @@ and discussion
 4. Discussion of semester outlook
 	- schedule on last page of [syllabus](../syllabus)
 5. [Course website](https://github.com/SmithEcophysLab/biol43165316_fall2023)
-	- [link to user guide](user_guide.md)
+	- [link to user guide](../user_guide.md)
 6. Finding and reading scientific literature
 7. Indicate discussion topic preferences
 	- [list of topic leads and schedule](../topic_leads/topic_leads.md)
