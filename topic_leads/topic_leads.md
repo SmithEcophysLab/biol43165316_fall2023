@@ -19,27 +19,23 @@ undergraduates can lead in groups of 3-5
 	- date: September 28, 2023
 	- lead: TBD
 	- paper: TBD
-5. Plant Nutrient Use
-	- date: October 5, 2023
-	- lead: TBD
-	- paper: TBD
-6. Nutrient Cycling
+5. Plant Nutrient Use and Nutrient Cycling
 	- date: October 12, 2023
 	- lead: TBD
 	- paper: TBD
-7. Species and Trophic Dynamics
+6. Species and Trophic Dynamics
 	- date: October 19, 2023
 	- lead: TBD
 	- paper: TBD
-8. Temporal Dynamics
+7. Temporal Dynamics
 	- date: October 26, 2023
 	- lead: TBD
 	- paper: TBD
-9. Changes in the Earth System
+8. Changes in the Earth System
 	- date: November 9, 2023
 	- lead: TBD
 	- paper: TBD
-10. Managing and Sustaining Ecosystems
+9. Managing and Sustaining Ecosystems
 	- date: November 16, 2023
 	- lead: TBD
 	- paper: TBD
