@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  23 AUG 2023 13:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  24 AUG 2023 16:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -419,7 +419,7 @@ Here is how much of TeX's memory you used:
  9662 multiletter control sequences out of 15000+600000
  43092 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,28p,276b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,28p,286b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/l
 ocal/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/loc
 al/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018
@@ -431,7 +431,7 @@ type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2018/texmf-dist/fonts/ty
 pe1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw
 /helvetic/uhvr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/helvet
 ic/uhvro8a.pfb>
-Output written on BIOL5316_Syllabus_fall2023.pdf (15 pages, 169293 bytes).
+Output written on BIOL5316_Syllabus_fall2023.pdf (15 pages, 169385 bytes).
 PDF statistics:
  261 PDF objects out of 1000 (max. 8388607)
  233 compressed objects within 3 object streams

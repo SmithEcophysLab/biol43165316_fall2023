@@ -32,7 +32,7 @@ Contact [Nick](mailto:nick.smith@ttu.edu) if you have any issues.
 	- [syllabus for undergraduate students](../syllabus/BIOL4316_Syllabus_fall2023.pdf)
 	- [syllabus for graduate students](../syllabus/BIOL5316_Syllabus_fall2023.pdf)
 - Download the EBook
-	- [link to EBook](https://www.springer.com/us/book/9780387783406)
+	- [link to EBook](https://link.springer.com/book/10.1007/978-1-4419-9504-9)
 - Read Chapter 1 of the textbook and write feedback (summary + questions). The full citation and link can be found in the 
 [readings](../readings) folder.
 - Practice searching for scientific literature using 

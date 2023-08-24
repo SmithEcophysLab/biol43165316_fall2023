@@ -13,29 +13,29 @@ undergraduates can lead in groups of 3-5
 	- paper: TBD
 3. Carbon Inputs
 	- date: September 21, 2023
-	- lead: TBD
+	- lead: Snehanjana
 	- paper: TBD
 4. Ecosystem Carbon Budgets
 	- date: September 28, 2023
-	- lead: TBD
+	- lead: Christine
 	- paper: TBD
 5. Plant Nutrient Use and Nutrient Cycling
 	- date: October 12, 2023
-	- lead: TBD
+	- lead: Daniel
 	- paper: TBD
 6. Species and Trophic Dynamics
 	- date: October 19, 2023
-	- lead: TBD
+	- lead: Zinny
 	- paper: TBD
 7. Temporal Dynamics
 	- date: October 26, 2023
-	- lead: TBD
+	- lead: Eve
 	- paper: TBD
 8. Changes in the Earth System
 	- date: November 9, 2023
-	- lead: TBD
+	- lead: Monika
 	- paper: TBD
 9. Managing and Sustaining Ecosystems
 	- date: November 16, 2023
-	- lead: TBD
+	- lead: Isabella
 	- paper: TBD
