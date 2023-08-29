@@ -5,6 +5,10 @@
 
 ## Agenda
 1. Time for questions about course content and structure
+2. Topic points from questionnaire
+	- lack of background
+	- concern about preparedness relative to other students
+	- *nick will address these in class*
 2. Continue discussing the concept of ecosystems
 	- [link to slides](../lecture_slides/ecosystem_concept.pdf)
 
