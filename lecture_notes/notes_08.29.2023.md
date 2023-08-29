@@ -10,7 +10,7 @@
 	- concern about preparedness relative to other students
 	- *nick will address these in class*
 2. Continue discussing the concept of ecosystems
-	- [link to slides](../lecture_slides/ecosystem_concept.pdf)
+	- [link to slides](../lecture_slides/1_ecosystem_concept.pdf)
 
 ## Homework
 - Read Vitousek et al. (1997) and write feedback (summary + questions). 
