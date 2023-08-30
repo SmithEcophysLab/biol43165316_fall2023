@@ -5,6 +5,8 @@
 
 ## Agenda
 1. Time for questions about course content and structure
+	- **It is important to do your feedbacks (summary and questions) before class.** Late assignments
+	will not be accepted.
 2. Miniquiz #1
 	- [link to miniquiz](../miniquizzes/miniquiz1_08.31.2023.pdf)
 3. Discussion of Vitousek et al. (1997)
