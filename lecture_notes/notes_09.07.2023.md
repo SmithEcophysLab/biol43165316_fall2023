@@ -1,16 +1,12 @@
 # Notes for class on September 7, 2023
 
 ## Objectives
-- Continue discussing climate and soils
+- NO CLASS TODAY
 
 ## Agenda
-1. Time for questions about course content and structure
-2. Miniquiz #2
-	- [link to miniquiz](../miniquizzes/miniquiz2_09.07.2023.pdf)
-3. Discussion of **TBD**
 
 ## Homework
-- Read Chapter 3 of the book and write feedback (summary + questions). 
+- Read Chapter 4 and write feedback (summary + questions) for Tuesday, September 12. 
 The full citation and link can be found in the 
 [readings](../readings) folder.
 

@@ -13,7 +13,7 @@
 	- [link to slides](../lecture_slides/1b_vitousek_et_al.pdf)
 
 ## Homework
-- Read Chapter 2 of the book and write feedback (summary + questions). 
+- Read Chapter 2-3 of the book and write feedback (summary + questions). 
 The full citation and link can be found in the 
 [readings](../readings) folder.
 

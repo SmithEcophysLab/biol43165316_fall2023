@@ -8,7 +8,8 @@
 	- [link to slides](../lecture_slides/2_climate_soils.pdf)
 
 ## Homework
-- Read **TBD** and write feedback (summary + questions). 
+- **NO CLASS THURSDAY**
+- Read Chapter 4 and write feedback (summary + questions) for Tuesday, September 12. 
 The full citation and link can be found in the 
 [readings](../readings) folder.
 
