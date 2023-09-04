@@ -4,7 +4,9 @@
 - Discuss climate and soils
 
 ## Agenda
-1. Discuss climate and soils
+1. Book access
+	- not easy off campus through library, but easy through book website (TTU has Springer subscription)
+2. Discuss climate and soils
 	- [link to slides](../lecture_slides/2_climate_soils.pdf)
 
 ## Homework
