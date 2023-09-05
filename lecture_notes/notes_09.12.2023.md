@@ -8,9 +8,7 @@
 	- [link to slides](../lecture_slides/3_water_energy.pdf)
 
 ## Homework
-- Read *TBD* and write feedback (summary + questions). 
-The full citation and link can be found in the 
-[readings](../readings) folder.
+- **No reading or feedback due for Sep. 14**
 
 ## In-class notes
 
