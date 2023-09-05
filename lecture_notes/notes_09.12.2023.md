@@ -5,7 +5,7 @@
 
 ## Agenda
 1. Discuss energy and water
-	- [link to slides](../lecture_slides/3_water_energy.pdf)
+	- [link to slides](../lecture_slides/3_energy_water.pdf)
 
 ## Homework
 - **No reading or feedback due for Sep. 14**
