@@ -4,7 +4,10 @@
 - Discuss water and energy balance
 
 ## Agenda
-1. Discuss energy and water
+1. Finish soils discussion
+	- [link to slides](../lecture_slides/2_climate_soils.pdf)
+		- starting with soil properties (slide 46)
+2. Discuss energy and water
 	- [link to slides](../lecture_slides/3_energy_water.pdf)
 
 ## Homework
