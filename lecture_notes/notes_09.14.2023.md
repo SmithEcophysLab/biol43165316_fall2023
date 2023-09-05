@@ -5,8 +5,9 @@
 
 ## Agenda
 1. Time to finish lectures on climate, soil, energy, water
-1. Miniquiz #2
+2. Miniquiz #2
 	- [link to miniquiz](../miniquizzes/miniquiz2_09.14.2023.pdf)
+3. Breakouts to discuss literature reviews
 
 ## Homework
 - Read Chapter 5 of the book and write feedback (summary + questions). 
