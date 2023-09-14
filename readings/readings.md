@@ -27,11 +27,13 @@ Chapter 4 of textbook
 TBD
 
 ### September 19
-Chapter 5 of textbook
+Chapter 5 of textbook (chapter 6 recommended, but optional)
 	- [link to EBook](https://link.springer.com/book/10.1007/978-1-4419-9504-9)
 
 ### September 21
-TBD
+Bloomfield KJ, Stocker BD, Keenan TF, Prentice IC. 2023. Environmental controls on 
+the light use efficiency of terrestrial gross primary production. 
+Global Change Biology 29, 1037–1053.
 
 ### September 26
 Chapter 7 of textbook
