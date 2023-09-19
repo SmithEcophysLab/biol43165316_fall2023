@@ -6,7 +6,7 @@
 ## Agenda
 1. Miniquiz #3
 	- [link to miniquiz](../miniquizzes/miniquiz3_09.21.2023.pdf)
-2. Time permitting: breakouts to discuss literature reviews
+2. Discussion of Bloomfield et al. (2023)
 
 ## Homework
 - Read Chapter 7 of the book and write feedback (summary + questions). 
