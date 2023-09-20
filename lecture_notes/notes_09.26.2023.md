@@ -9,7 +9,7 @@
 2. Time permitting: breakouts to discuss literature reviews
 
 ## Homework
-- Read TBD and write feedback (summary + questions). 
+- Read Qin et al. (2019) and write feedback (summary + questions). 
 The full citation and link can be found in the 
 [readings](../readings) folder.
 - Work on literature review proposal (due: October 10)

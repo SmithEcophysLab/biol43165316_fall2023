@@ -40,7 +40,9 @@ Chapter 7 of textbook
 	- [link to EBook](https://link.springer.com/book/10.1007/978-1-4419-9504-9)
 
 ### September 28
-TBD
+Qin, S., Chen, L., Fang, K., Zhang, Q., Wang, J., Liu, F., Yu, J., & Yang, Y. (2019). 
+Temperature sensitivity of SOM decomposition governed by aggregate protection and microbial communities. 
+Science Advances, 5(7).
 
 ### October 3
 TBD
