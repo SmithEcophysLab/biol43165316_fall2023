@@ -7,6 +7,8 @@
 1. Lecture on carbon budgets of terrestrial ecosystems
 	- [link to slides on carbon budgets of terrestrial ecosystems](../lecture_slides/5_carbon_budgets.pdf)
 2. Time permitting: breakouts to discuss literature reviews
+	- round robin: what is your literature review question??
+		- is it too narrow/broad?
 
 ## Homework
 - Read Qin et al. (2019) and write feedback (summary + questions). 
