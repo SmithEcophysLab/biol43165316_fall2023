@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  21 SEP 2023 10:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  26 SEP 2023 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -330,8 +330,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
  (./miniquiz4_09.28.2023.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
-Package rerunfilecheck Info: File `miniquiz4_09.28.2023.out' has not changed.
-(rerunfilecheck)             Checksum: 177FA1178B931EA4490AAD9B31604F43;1234.
+
+
+Package rerunfilecheck Warning: File `miniquiz4_09.28.2023.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `miniquiz4_09.28.2023.out':
+(rerunfilecheck)             Before: 177FA1178B931EA4490AAD9B31604F43;1234
+(rerunfilecheck)             After:  0F22742BB71EB670BABD4CB0F10BF08A;1243.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 87.
  ) 
 Here is how much of TeX's memory you used:
@@ -348,7 +355,7 @@ ocal/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/20
 mf-dist/fonts/type1/public/tex-gyre/qbkr.pfb></usr/local/texlive/2018/texmf-dis
 t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts
 /type1/urw/helvetic/uhvr8a.pfb>
-Output written on miniquiz4_09.28.2023.pdf (3 pages, 63128 bytes).
+Output written on miniquiz4_09.28.2023.pdf (3 pages, 63133 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
