@@ -9,8 +9,8 @@ undergraduates can lead in groups of 3-5
 	- paper: Vitousek et al. (1997). Human Domination of Earth's Ecosystems. *Science* 277(5325): 494-499.
 2. Water and Energy Balance
 	- date: September 14, 2023
-	- lead: None
-	- paper: None
+	- lead: No lead this week
+	- paper: No paper this week
 3. Carbon Inputs
 	- date: September 21, 2023
 	- lead: Snehanjana
