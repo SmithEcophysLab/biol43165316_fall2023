@@ -55,7 +55,7 @@ Chapters 8-9 of textbook
 	- [link to EBook](https://link.springer.com/book/10.1007/978-1-4419-9504-9)
 
 ### October 12
-TBD
+Cunha HFV, Andersen KM, Lugli LF, et al. 2022. Direct evidence for phosphorus limitation on Amazon forest productivity. Nature 608, 558–562.
 
 ### October 17
 Chapters 10-11 of textbook
