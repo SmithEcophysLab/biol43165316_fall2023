@@ -13,6 +13,8 @@
 - Read chapters 10-11 of textbook. 
 The full citation and link can be found in the 
 [readings](../readings) folder.
+- Work on literature reviews (due: December 5)
+	- [literature review rubric](../rubrics/review_rubric.md)
 
 ## In-class notes
 
