@@ -10,7 +10,7 @@
 	- lead: Zinny
 
 ## Homework
-- Read chapter 12 of textbook. 
+- Read chapter 12 of textbook and write feedback (summary + 2 questions). 
 The full citation and link can be found in the 
 [readings](../readings) folder.
 - Work on literature reviews (due: December 5)

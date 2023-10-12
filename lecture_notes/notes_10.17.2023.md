@@ -8,7 +8,7 @@
 	- [link to slides on species and trophic dynamics](../lecture_slides/7_trophic_dynamics.pdf)
 
 ## Homework
-- Read TBD. 
+- Read TBD and write feedback (summary + 2 questions). 
 The full citation and link can be found in the 
 [readings](../readings) folder.
 - Work on literature reviews (due: December 5)
