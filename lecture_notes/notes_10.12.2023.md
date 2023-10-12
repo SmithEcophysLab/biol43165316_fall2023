@@ -4,9 +4,11 @@
 - Continue learning about nutrient cycling in terrestrial ecosystems
 
 ## Agenda
-1. Miniquiz #5
+1. Quick discussion of nutrient use in agriculture
+	- [link to slides](../lecture_slides/6a_nutrients_ag.pdf)
+2. Miniquiz #5
 	- [link to miniquiz](../miniquizzes/miniquiz5_10.12.2023.pdf)
-2. Discussion of Cunha et al. (2022)
+3. Discussion of Cunha et al. (2022)
 	- lead: Daniel
 
 ## Homework
