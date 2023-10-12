@@ -62,7 +62,8 @@ Chapters 10-11 of textbook
 	- [link to EBook](https://link.springer.com/book/10.1007/978-1-4419-9504-9)
 
 ### October 19
-TBD
+Wilfahrt PA, Seabloom EW, Bakker JD, et al. 2023. Nothing lasts forever: 
+Dominant species decline under rapid environmental change in global grasslands. Journal of Ecology.
 
 ### October 24
 Chapter 12 of textbook
