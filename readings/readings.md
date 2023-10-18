@@ -70,7 +70,8 @@ Chapter 12 of textbook
 	- [link to EBook](https://link.springer.com/book/10.1007/978-1-4419-9504-9)
 
 ### October 26
-TBD
+Matula, R., Řepka, R., Šebesta, J., Pettit, J. L., Chamagne, J., Šrámek, M., ... & Maděra, P. (2020). 
+Resprouting trees drive understory vegetation dynamics following logging in a temperate forest. Scientific Reports, 10(1), 9231.
 
 ### October 31
 Chapter 13 of textbook
