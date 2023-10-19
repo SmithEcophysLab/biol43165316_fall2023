@@ -6,7 +6,7 @@
 ## Agenda
 1. Miniquiz #6
 	- [link to miniquiz](../miniquizzes/miniquiz6_10.19.2023.pdf)
-2. Discussion of TBD
+2. Discussion of Wilfhart et al. (2023)
 	- lead: Zinny
 
 ## Homework
