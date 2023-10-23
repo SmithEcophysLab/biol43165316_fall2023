@@ -22,15 +22,15 @@ undergraduates can lead in groups of 3-5
 5. Plant Nutrient Use and Nutrient Cycling
 	- date: October 12, 2023
 	- lead: Daniel
-	- paper: TBD
+	- paper: Cunha et al. (2022)
 6. Species and Trophic Dynamics
 	- date: October 19, 2023
 	- lead: Zinny
-	- paper: TBD
+	- paper: Wilfhart et al. (2023)
 7. Temporal Dynamics
 	- date: October 26, 2023
 	- lead: Eve
-	- paper: TBD
+	- paper: Matula et al. (2020)
 8. Changes in the Earth System
 	- date: November 9, 2023
 	- lead: Monika
