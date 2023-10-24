@@ -2,10 +2,12 @@
 
 ## Objectives
 - Learn about spatial dynamics
+- work on literature review outlines/systems diagrams
 
 ## Agenda
-1. Lecture on spatial dynamics
+1. Finish lecture on spatial dynamics
 	- [link to slides on spatial and temporal dynamics](../lecture_slides/9_space.pdf)
+2. Work on systems diagram and outline for literature review (group effort!)
 
 ## Homework
 - Read Chapter 15 of book and write feedback (summary + 2 questions) **for next Tuesday (Nov. 6)**.

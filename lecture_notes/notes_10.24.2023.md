@@ -1,13 +1,14 @@
 # Notes for class on October 24, 2023
 
 ## Objectives
-- Learn about temporal dynamics
+- Learn about spatial and temporal dynamics
 
 ## Agenda
 1. Note mistake on chapter readings (now fixed)
 	- [link to readings](../readings) folder
 2. Lecture on spatial and temporal dynamics
-	- [link to slides on spatial and temporal dynamics](../lecture_slides/8_time.pdf)
+	- [link to slides on temporal dynamics](../lecture_slides/8_time.pdf)
+	- [link to slides on spatial dynamics](../lecture_slides/8_space.pdf)
 
 ## Homework
 - Read Matula et al. (2020) and write feedback (summary + 2 questions). 
