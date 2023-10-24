@@ -66,7 +66,7 @@ Wilfahrt PA, Seabloom EW, Bakker JD, et al. 2023. Nothing lasts forever:
 Dominant species decline under rapid environmental change in global grasslands. Journal of Ecology.
 
 ### October 24
-Chapter 13 of textbook
+Chapter 12 of textbook
 	- [link to EBook](https://link.springer.com/book/10.1007/978-1-4419-9504-9)
 
 ### October 26
@@ -74,21 +74,21 @@ Matula, R., Řepka, R., Šebesta, J., Pettit, J. L., Chamagne, J., Šrámek, M.,
 Resprouting trees drive understory vegetation dynamics following logging in a temperate forest. Scientific Reports, 10(1), 9231.
 
 ### October 31
-Chapter 14 of textbook
+Chapter 13 of textbook
 	- [link to EBook](https://link.springer.com/book/10.1007/978-1-4419-9504-9)
 
 ### November 2
 No class. No reading.
 
 ### November 7
-Chapter 15 of textbook
+Chapter 14 of textbook
 	- [link to EBook](https://link.springer.com/book/10.1007/978-1-4419-9504-9)
 
 ### November 9
 TBD
 
 ### November 14
-Chapter 16 of textbook
+Chapter 15 of textbook
 	- [link to EBook](https://link.springer.com/book/10.1007/978-1-4419-9504-9)
 
 ### November 16
