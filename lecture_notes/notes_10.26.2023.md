@@ -4,9 +4,10 @@
 - Continue learning about temporal dynamics
 
 ## Agenda
-1. Miniquiz #7
+1. Finish slides on spatial dynamics
+2. Miniquiz #7
 	- [link to miniquiz](../miniquizzes/miniquiz7_10.26.2023.pdf)
-2. Discussion of Matula et al. (2020)
+3. Discussion of Matula et al. (2020)
 	- lead: Eve
 
 ## Homework
