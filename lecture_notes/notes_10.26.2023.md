@@ -11,7 +11,7 @@
 	- lead: Eve
 
 ## Homework
-- Read chapter 14 of textbook and write feedback (summary + 2 questions). 
+- Read chapter 13 of textbook and write feedback (summary + 2 questions). 
 The full citation and link can be found in the 
 [readings](../readings) folder.
 - Work on literature reviews (due: December 5)
