@@ -85,7 +85,9 @@ Chapter 14 of textbook
 	- [link to EBook](https://link.springer.com/book/10.1007/978-1-4419-9504-9)
 
 ### November 9
-TBD
+Li, W., Migliavacca, M., Forkel, M., Denissen, J. M. C., Reichstein, M., Yang, H., 
+Duveiller, G., Weber, U., & Orth, R. (2022). Widespread increasing vegetation sensitivity to soil moisture. 
+Nature Communications, 13(1), 3959.
 
 ### November 14
 Chapter 15 of textbook

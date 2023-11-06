@@ -8,7 +8,7 @@
 	- [link to slides on changes in the Earth system](../lecture_slides/10_changes_in_earth_system.pdf)
 
 ## Homework
-- Read TBD and write feedback (summary + 2 questions).
+- Read Li et al. (2022) and write feedback (summary + 2 questions).
 The full citation and link can be found in the 
 [readings](../readings) folder.
 - Work on literature reviews (due: December 5)
