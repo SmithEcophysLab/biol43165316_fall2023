@@ -10,9 +10,7 @@
 	- lead: Monika
 
 ## Homework
-- Read chapter 15 of textbook and write feedback (summary + 2 questions). 
-The full citation and link can be found in the 
-[readings](../readings) folder.
+- Create and bring draft of literature review outline
 - Work on literature reviews (due: December 5)
 	- [literature review rubric](../rubrics/review_rubric.md)
 
