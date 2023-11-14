@@ -4,9 +4,11 @@
 - Work on literature reviews
 
 ## Agenda
-1. Trade and grade literature review outlines
+1. The 5th National Climate Assessment is out!
+	- [link to 5th National Climate Assessment](https://nca2023.globalchange.gov/)
+2. Trade and grade literature review outlines
 	- Nick will float around to give feedback
-2. Workshop time to modify literature review outlines and begin writing
+3. Workshop time to modify literature review outlines and begin writing
 
 ## Homework
 - Work on literature reviews (due: December 5)
