@@ -9,6 +9,7 @@
 1. Christine
 2. Dan
 3. Eve
+4. Madison
 
 ## Tuesday, Dec. 5
 1. Zinny
