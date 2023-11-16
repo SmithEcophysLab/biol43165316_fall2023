@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  10 NOV 2023 13:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  16 NOV 2023 13:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -202,7 +202,7 @@ Package: inputenc 2018/04/06 v1.3b Input encoding file
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tex-gyre/tgbonum.sty
 Package: tgbonum 2009/09/27 v1.2 TeX Gyre Bonum as default roman family
 )
-No file miniquiz9_11.16.2023.aux.
+(./miniquiz9_11.16.2023.aux)
 \openout1 = `miniquiz9_11.16.2023.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -220,6 +220,7 @@ LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Try loading font information for T1+qbk on input line 36.
+
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tex-gyre/t1qbk.fd
 File: t1qbk.fd 2009/09/25 v1.2 font definition file for T1/qbk
 )
@@ -301,6 +302,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 36.
 LaTeX Info: Redefining \pageref on input line 36.
 LaTeX Info: Redefining \nameref on input line 36.
+
+(./miniquiz9_11.16.2023.out) (./miniquiz9_11.16.2023.out)
 \@outlinefile=\write3
 \openout3 = `miniquiz9_11.16.2023.out'.
 
@@ -327,22 +330,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
  (./miniquiz9_11.16.2023.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
-
-
-Package rerunfilecheck Warning: File `miniquiz9_11.16.2023.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `miniquiz9_11.16.2023.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  0F77D388EE1FE1D4E503034E13408BD0;1296.
+Package rerunfilecheck Info: File `miniquiz9_11.16.2023.out' has not changed.
+(rerunfilecheck)             Checksum: 0F77D388EE1FE1D4E503034E13408BD0;1296.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
  ) 
 Here is how much of TeX's memory you used:
- 5754 strings out of 492649
- 84919 string characters out of 6129622
- 175550 words of memory out of 5000000
- 9588 multiletter control sequences out of 15000+600000
+ 5774 strings out of 492649
+ 85218 string characters out of 6129622
+ 175654 words of memory out of 5000000
+ 9602 multiletter control sequences out of 15000+600000
  30258 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,6n,29p,636b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -352,10 +348,10 @@ ocal/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/20
 mf-dist/fonts/type1/public/tex-gyre/qbkr.pfb></usr/local/texlive/2018/texmf-dis
 t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts
 /type1/urw/helvetic/uhvr8a.pfb>
-Output written on miniquiz9_11.16.2023.pdf (4 pages, 62919 bytes).
+Output written on miniquiz9_11.16.2023.pdf (4 pages, 62867 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 99 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
  18 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
