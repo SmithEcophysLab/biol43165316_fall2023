@@ -58,7 +58,7 @@ problem is important and was (or can be) addressed.
 
 2. Breadth and Originality (20 points)
 - The review is sufficiently broad to address a question in the field
-of plant physiological ecology. The review should can combine known ideas to form
+of ecosystem ecology. The review should can combine known ideas to form
 a new idea, but must not be a simple reiteration of known facts.
 
 *For graduate students*: For full points, the question addressed must be completely novel and
@@ -83,7 +83,7 @@ In the oral presentation, elements can be verbally described and/or described us
 In the oral presentation, please try to avoid adding excessive text that can be conveyed verbally.
 
 *For graduate students*: For full points, the oral presentation should be of suitable quality that it could be presented
-at a national conference in the field of plant science (Botanical Society of America) and/or ecology
+at a national conference in the field of ecology
 (Ecological Society of America).
 
 
